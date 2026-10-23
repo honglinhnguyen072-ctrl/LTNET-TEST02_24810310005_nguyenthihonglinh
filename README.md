@@ -9,12 +9,21 @@
 
 | Bài tập | Tiêu đề bài tập | Trạng thái | Mức độ hoàn thành (%) |
 | :---: | :--- | :---: | :---: |
-
 | **Bài 1** | Quản lý Dịch vụ Phòng Gym & Hội viên | Hoàn thành | 100% |
+| :---: | :--- | :---: | :---: |
+
 | **Bài 2** | Báo cáo & Lưu trữ Tài liệu Nhà sách | Hoàn thành | 100% |
+| :---: | :--- | :---: | :---: |
+
 | **Bài 3** | Hệ thống MDI Quản lý Bệnh viện & Async | Hoàn thành | 100% |
+| :---: | :--- | :---: | :---: |
+
 | **Bài 4** | Bảng điều khiển Tổng hợp Báo cáo Kho hàng (Async/Await & không khóa UI) | Hoàn thành | 100% |
+| :---: | :--- | :---: | :---: |
+
 | **Bài 5** | Mô phỏng Giám sát Cảnh báo IoT Real-time (Cross-thread Safety & Processing) | Hoàn thành | 100% |
+| :---: | :--- | :---: | :---: |
+
 
 ## III. MINH HỌA GIAO DIỆN & KỸ THUẬT NỔI BẬT
 ### Bài tập 1:Quản lý Đặt phòng Khách sạn
